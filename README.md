@@ -9,7 +9,7 @@
 
 - 🎥 I’m currently working on: [**The Web Dev Rocket coaching program**](https://itcoaching.dev/coaching/webdevrocket)
 
-- 🌱 I’m currently learning: **Marketing, Sales, Product**
+- 🌱 I’m currently learning: **Recruitment, Finding Job Opportunities**
 
 - 🤝 I'm looking for content collaborators, and driven developers who want to achieve excellence
 
