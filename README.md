@@ -7,7 +7,7 @@
   I'm Stefan Wullems, a Freelance Web Engineer and psychology student based in Amsterdam. My passion is to inspire people to reach for the stars, and continuously advancing my own skills and knowledge.
 </p>
 
-- 🌱 I’m currently learning: **Learning Science, Research Methodology and Statistics, Cognitive Science**
+- 🌱 I’m currently learning: **Neuroscience, Research Methodology and Statistics, Cognitive Science**
 
 - 🤝 I'm looking for a two day a week freelancing job to support my psychology studies
 
