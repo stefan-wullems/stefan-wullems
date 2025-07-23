@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning: **Neuroscience, Research Methodology and Statistics, Cognitive Science**
 
-- 🤝 I'm looking for a part-time/full-time job to support my psychology studies
+- 🤝 I'm looking for a full-time job as a software engineer.
 
 - 💬 Ask me about **Functional Programming, Frontend Development, Psychology**
 
